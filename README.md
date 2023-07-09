@@ -44,7 +44,7 @@ Python Code for Movie Recommendation System
       
 11. CALCULATING SIMILARITIES
     - We calculate the similarity between each pair of movies by taking 'user_ratings' as the input.
-      - 1 represents exact similarity, 0 represents no similarity and -1 represents perfect dissimilarity.
+    - 1 represents exact similarity, 0 represents no similarity and -1 represents perfect dissimilarity.
         
 12. MANUAL TESTING
     - We create a function which takes the movie title from the user.
